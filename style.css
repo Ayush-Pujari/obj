@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#head1{
+    width: 100%;
+    margin-top: 0px;
+    font-size: 20px;
+    border-radius: 2px;
+}
+#hh3{
+    color: white;
+    font-size: 13px;
+    text-align: center;
+  
+   
+}
+#hh4{
+    color: white;
+    font-size: 15px;
+}
+input{
+    border-radius: 3px;
+    box-shadow: 5px 5px 5px black;
+}
